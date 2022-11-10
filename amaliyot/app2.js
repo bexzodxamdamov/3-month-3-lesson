@@ -10,7 +10,7 @@ function checkSpeed(speed) {
     if (point > point_limit) {
       console.log("point");
     } else {
-      console.log(point);
+      console.log("point");
     }
   }
 }
